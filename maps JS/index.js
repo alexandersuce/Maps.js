@@ -20,7 +20,7 @@ function initialize() {
     // Create a marker for example : Iran, Zanjan
     var marker = new google.maps.Marker({
         // Cordinates for Iran, Zanjan
-        position: new google.maps.LatLng(36.6769, 48.4963),
+        position: new google.maps.LatLng(45°54'00.0"N 6°54'00.0"E),
         // Attach the marker
         map: map,
         // Tooltip on hover
