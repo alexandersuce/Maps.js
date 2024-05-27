@@ -24,7 +24,7 @@ function initialize() {
         // Attach the marker
         map: map,
         // Tooltip on hover
-        title: 'Iran, Zanjan'
+        title: 'France, Chamonix Mont-blanc'
     });
 
     // Add click event listener for marker
